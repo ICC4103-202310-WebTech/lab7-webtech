@@ -74,4 +74,3 @@ group :test do
   gem "webdrivers"
 end
 
-gem 'webtech', git: 'https://github.com/ICC4103-202310-WebTech/webtech-lab-tests.git', branch: 'main'
